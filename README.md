@@ -1,6 +1,6 @@
 # Project in Computer Programming-10
 
-##Group Members : 
+## Group Members : 
 * Geoff Gerad Garado
 * Andre Jamer
 * Carlito Mataragnon Beato
