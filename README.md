@@ -1,5 +1,5 @@
 # Project in Computer Programming-10
-
+![alt text](https://github.com/geoffgarado/Project-in-Computer-Programming-10/blob/main/preview.png)
 ## Group Members : 
 * Geoff Gerad Garado
 * Andre Jamer
