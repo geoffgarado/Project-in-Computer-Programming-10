@@ -55,7 +55,7 @@ void depositCash(double amount) {
         } else {
             cout << "Invalid input. Please enter a number." << endl;
             cin.clear();
-            cin.ignore(numeric_limits<streamsize>::max(), '\n');
+            cin.ignore();
         }
     }
     cash += deposit;
